@@ -1,0 +1,101 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(88, 86, 86);
+}
+h2{
+    font-size: 35px;
+    color: rgb(88, 86, 86);
+}
+h3{
+    font-size: 30px;
+    font-weight: 900;
+    margin-left: 52px;
+}
+h6{
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    margin-right: 40px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+p{
+    font-size: 20px;
+    color: gray;
+    font-style: initial;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding-left:10%;
+    margin-top: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.ripo img{
+    width: 47%;
+    margin-left: 40%;
+    margin-top: 10%;
+
+}
+.about-me{
+    width: 40%;
+    padding-left:10%;
+    padding-right: 20%;
+    margin-top: 10%;
+}
+.golden{
+    color: goldenrod;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 71, 71),rgb(238, 191, 105));
+    padding: 15px 40px;
+    color: whitesmoke;
+    font-weight: 400;
+    border-radius: 25px;
+}
+.top-banner{
+    background-image: url(images/shapes/fram1.png);
+    background-repeat: no-repeat;
+}
+.recipies{
+    text-align: center;
+    margin: 10% 20%;
+}
+.food1{
+    width: 32%;
+    margin: 2px 2px 2px 2px;
+}
+.img-food{
+    width: 65%;
+    margin-left: 12%;
+    box-shadow: 10px 10px 40px rgb(69, 6, 243);
+}
+.text{
+    width: 20%;
+    margin-left: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px rgb(22, 224, 22);
+}
+.text h5{
+    padding: 0 10px 10px 10px;
+}
+footer h2{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.foter{
+    padding: 2% 10%;
+    background-image: linear-gradient( rgb(19, 8, 8), rgb(20, 18, 18));
+}
